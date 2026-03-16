@@ -1,4 +1,5 @@
-Hardware Telemetry Anomaly Explorer
+*Hardware Telemetry Anomaly Explorer*
+
 An interactive multi-axis time-series dashboard for visualizing and detecting anomalies in 
 simulated hardware telemetry data — including thermal zones, voltage rails, SoC power 
 draw, and PMU performance counters.
